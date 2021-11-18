@@ -36,9 +36,9 @@ MISAL DEPANNYA PAKE TANDA PETIK DI ATAS 1 (`) BERARTI DI AKHIRNYA HARUS DI TUTUP
 ❗MAU BELI SCRIPT YANG NO ENC ? KE PM BAWA DANA, HARGA BISIK BISIK :V (6281231951590)
 ────────────────────────────────────────────────────────────────────────────────────────                                                                                                                                                                                                                                                                */
 limitawal = "50" //LIMIT AWAL
-namabot = "Its Me Xinzz" //NAMA BOT
-namaowner = "OWNER Xinzz🎖️" //NAMA OWNER
-nomerowner = '6281994112523' //NOMER OWNER
+namabot = "Its Me Caca" //NAMA BOT
+namaowner = "OWNER Caca 🎖️" //NAMA OWNER
+nomerowner = '6281262411188' //NOMER OWNER
 gamewaktu = "300" //3 = 3 detik || 30 = 30 detik .Dst
 numbernye = "0" //GAUSAH DI UBAH JUGA GPP
 gcounttprem = "35" //LIMIT GAME AWAL UNTUK USER PREMIUM
@@ -52,9 +52,9 @@ const lolkey = 'isi' //MASUKAN APIKEYMU DI DISINI, JANGAN LUPA BUKA DAN TUTUP PA
 //DONASI 
 //NOTE : JIKA GA PUNYA, ISI JADI -
 gopay = 'Kode Qr Di Profile Bot'
-dana = '081297365205'
-ovo = '081994112523'
-shopeepay = '081994112523'
+dana = '081262411188'
+ovo = '081262411188'
+shopeepay = '081262411188'
 paypal = '-'
 saweria = '-'
 ewalet = '-'
@@ -81,7 +81,7 @@ noregis: `─ 「 *NOT REGISTERED* 」 ─
 Maaf Sepertinya Kamu Belum Terdaftar Di Dalam Database Bot,
 Ketik #daftar Untuk Mendaftarkan Diri Ke Dalam Databse Bot`,
 
-ban: '_*Maaf Kamu Sudah TerBanned!!*_',
+ban: '_*Maaf Lu Sudah TerBanned Tod !!*_',
 error: 'Hehehe Error',
 
 only: {
